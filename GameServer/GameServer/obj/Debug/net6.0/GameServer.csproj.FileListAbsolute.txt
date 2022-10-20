@@ -1,0 +1,17 @@
+D:\Study\GameServer\GameServer\bin\Debug\net6.0\GameServer.exe
+D:\Study\GameServer\GameServer\bin\Debug\net6.0\GameServer.deps.json
+D:\Study\GameServer\GameServer\bin\Debug\net6.0\GameServer.runtimeconfig.json
+D:\Study\GameServer\GameServer\bin\Debug\net6.0\GameServer.dll
+D:\Study\GameServer\GameServer\bin\Debug\net6.0\GameServer.pdb
+D:\Study\GameServer\GameServer\bin\Debug\net6.0\LitJson.dll
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\GameServer.csproj.AssemblyReference.cache
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfoInputs.cache
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\GameServer.AssemblyInfo.cs
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\GameServer.csproj.CoreCompileInputs.cache
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\GameServer.csproj.CopyComplete
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\GameServer.dll
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\refint\GameServer.dll
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\GameServer.pdb
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\GameServer.genruntimeconfig.cache
+D:\Study\GameServer\GameServer\obj\Debug\net6.0\ref\GameServer.dll
